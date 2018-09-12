@@ -1,0 +1,9 @@
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.DataModel\bin\Release\netcoreapp2.1\SpotHero.DataModel.deps.json
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.DataModel\bin\Release\netcoreapp2.1\SpotHero.DataModel.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.DataModel\bin\Release\netcoreapp2.1\SpotHero.DataModel.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.DataModel\obj\Release\netcoreapp2.1\SpotHero.DataModel.csprojAssemblyReference.cache
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.DataModel\obj\Release\netcoreapp2.1\SpotHero.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.DataModel\obj\Release\netcoreapp2.1\SpotHero.DataModel.AssemblyInfoInputs.cache
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.DataModel\obj\Release\netcoreapp2.1\SpotHero.DataModel.AssemblyInfo.cs
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.DataModel\obj\Release\netcoreapp2.1\SpotHero.DataModel.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.DataModel\obj\Release\netcoreapp2.1\SpotHero.DataModel.pdb

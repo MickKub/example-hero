@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpotHero.Api</name>
+    </assembly>
+    <members>
+        <member name="M:SpotHero.Api.Controllers.RatesController.Get(System.DateTimeOffset,System.DateTimeOffset)">
+            <summary>
+            Computes a price for a specified datetime range
+            </summary>
+            <param name="from"> input date/times as ISO-8601 </param>
+            <param name="to"> input date/times as ISO-8601 </param>
+            <response code="200">
+            Response representing a rate, including a price and date ranges
+            </response>
+            <response code="400">
+            Bad Request 
+            - There are not rates for current date ranges
+            - Parameters are not valid date times
+            - One or two parameters are missing
+            - The from parameter is greater the to
+            - The from datetime is greater than the to datetime
+            </response>
+            <response code="500">
+            - Internal server error
+            </response>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

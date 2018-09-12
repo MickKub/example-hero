@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  spothero.api:
+    build:
+      context: D:\SpotHero\SpotHero
+      dockerfile: SpotHero.Api\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ''
+    ports:
+    - target: 80
+version: '3.4'

@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotHero.Api", "SpotHero.Api\SpotHero.Api.csproj", "{A5B0ADD1-2023-427D-8C18-F8D5C0196E81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotHero.DataAccess", "SpotHero.DataAccess\SpotHero.DataAccess.csproj", "{169790FD-D68E-472E-B3C0-425B5DA75607}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotHero.Operations", "SpotHero.Operations\SpotHero.Operations.csproj", "{C2C7298D-C92B-4424-ADCC-11FCDA26065F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotHero.Common", "SpotHero.Common\SpotHero.Common.csproj", "{507337D3-FA28-4EF9-9997-E3AE293865D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotHero.DataModel", "SpotHero.DataModel\SpotHero.DataModel.csproj", "{8B46654C-1C60-4715-B1A0-0E84D9AC3A4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{2AC9372B-34C8-40B4-8111-725A0AE69924}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpotHero.Tests", "SpotHero.Tests\SpotHero.Tests.csproj", "{E4940FFA-6BDC-442F-B232-D15118F4E9B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B0ADD1-2023-427D-8C18-F8D5C0196E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B0ADD1-2023-427D-8C18-F8D5C0196E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B0ADD1-2023-427D-8C18-F8D5C0196E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B0ADD1-2023-427D-8C18-F8D5C0196E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169790FD-D68E-472E-B3C0-425B5DA75607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169790FD-D68E-472E-B3C0-425B5DA75607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169790FD-D68E-472E-B3C0-425B5DA75607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169790FD-D68E-472E-B3C0-425B5DA75607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C7298D-C92B-4424-ADCC-11FCDA26065F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C7298D-C92B-4424-ADCC-11FCDA26065F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C7298D-C92B-4424-ADCC-11FCDA26065F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C7298D-C92B-4424-ADCC-11FCDA26065F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507337D3-FA28-4EF9-9997-E3AE293865D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507337D3-FA28-4EF9-9997-E3AE293865D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507337D3-FA28-4EF9-9997-E3AE293865D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507337D3-FA28-4EF9-9997-E3AE293865D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B46654C-1C60-4715-B1A0-0E84D9AC3A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B46654C-1C60-4715-B1A0-0E84D9AC3A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B46654C-1C60-4715-B1A0-0E84D9AC3A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B46654C-1C60-4715-B1A0-0E84D9AC3A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4940FFA-6BDC-442F-B232-D15118F4E9B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4940FFA-6BDC-442F-B232-D15118F4E9B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4940FFA-6BDC-442F-B232-D15118F4E9B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4940FFA-6BDC-442F-B232-D15118F4E9B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E4940FFA-6BDC-442F-B232-D15118F4E9B5} = {2AC9372B-34C8-40B4-8111-725A0AE69924}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {511AB06D-4BCF-4915-8F8A-49937225A31C}
+	EndGlobalSection
+EndGlobal
