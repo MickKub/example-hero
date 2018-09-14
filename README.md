@@ -1,4 +1,4 @@
-# SpotHero
+# ExampleHero
  An API that allows a user to enter a date time range and get back the rate at which they would be charged to park for that time span.
  # App start
  Open the solution in VS2017 and press F5. The browser will open and navigate to the Swagger UI and shows an available endpoints
