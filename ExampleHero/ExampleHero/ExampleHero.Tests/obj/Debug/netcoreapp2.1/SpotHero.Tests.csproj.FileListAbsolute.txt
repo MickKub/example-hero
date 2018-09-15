@@ -1,0 +1,160 @@
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.deps.json
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfoInputs.cache
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfo.cs
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.json
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.dev.json
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csprojAssemblyReference.cache
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.pdb
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.pdb
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CopyComplete
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.pdb
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.pdb
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.pdb
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.dll
+C:\Users\Mick\Desktop\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.deps.json
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.json
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.dev.json
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csprojAssemblyReference.cache
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CoreCompileInputs.cache
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfoInputs.cache
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfo.cs
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CopyComplete
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.dll
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+C:\Users\GAU2\Desktop\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.xml
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.deps.json
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.json
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.dev.json
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.pdb
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.xml
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.pdb
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.pdb
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.pdb
+D:\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.pdb
+D:\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csprojAssemblyReference.cache
+D:\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CoreCompileInputs.cache
+D:\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfoInputs.cache
+D:\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfo.cs
+D:\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CopyComplete
+D:\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.dll
+D:\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.deps.json
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.json
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.dev.json
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.pdb
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.xml
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.pdb
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.pdb
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.pdb
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.pdb
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csprojAssemblyReference.cache
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CoreCompileInputs.cache
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfoInputs.cache
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfo.cs
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CopyComplete
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.dll
+D:\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.deps.json
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.json
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.dev.json
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.pdb
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Api.xml
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataAccess.pdb
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Common.pdb
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.DataModel.pdb
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Operations.pdb
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csprojAssemblyReference.cache
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CoreCompileInputs.cache
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfoInputs.cache
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfo.cs
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CopyComplete
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.dll
+C:\Users\GAU2\Desktop\spot-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.deps.json
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.json
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.runtimeconfig.dev.json
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\SpotHero.Tests.pdb
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Api.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Common.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.DataAccess.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.DataModel.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Operations.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Api.pdb
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.DataAccess.pdb
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Common.pdb
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.DataModel.pdb
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Operations.pdb
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csprojAssemblyReference.cache
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfoInputs.cache
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.AssemblyInfo.cs
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.csproj.CopyComplete
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.dll
+C:\Users\Mick\Desktop\New folder (2)\example-hero\SpotHero\SpotHero\SpotHero.Tests\obj\Debug\netcoreapp2.1\SpotHero.Tests.pdb
