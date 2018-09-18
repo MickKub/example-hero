@@ -1,13 +1,13 @@
-﻿using NUnit.Framework;
+﻿using ExampleHero.Common.Exceptions;
 using ExampleHero.DataAccess;
 using ExampleHero.DataAccess.Abstraction;
 using ExampleHero.DataAccess.Entities;
 using ExampleHero.Operations.Abstraction;
 using ExampleHero.Operations.Implementation;
+using NUnit.Framework;
 using System;
 using System.Diagnostics;
 using System.Threading.Tasks;
-using ExampleHero.Common.Exceptions;
 
 namespace ExampleHero.Tests
 {
@@ -77,7 +77,7 @@ namespace ExampleHero.Tests
 		[TestCase("2018-09-16T02:03:09Z", "2018-09-19T06:03:09Z")]
 		public void Get_WithInvalidTimeSpans_ShouldReturnException(string startDateTimeString, string endDateTimeString)
 		{
-			 AssertFailIfNotSucceedParse(startDateTimeString, endDateTimeString, out var startTime, out var endTime);
+			AssertFailIfNotSucceedParse(startDateTimeString, endDateTimeString, out var startTime, out var endTime);
 
 			Assert.Throws<CustomBaseException>(() =>
 				_rateOperations.GetAsync(startTime, endTime).GetAwaiter().GetResult());
@@ -86,9 +86,9 @@ namespace ExampleHero.Tests
 		private static void AssertFailIfNotSucceedParse(string startDateTimeString, string endDateTimeString, out DateTimeOffset startDateTime, out DateTimeOffset endDateTime)
 		{
 			if (!DateTimeOffset.TryParse(startDateTimeString, null, System.Globalization.DateTimeStyles.RoundtripKind,
-				    out startDateTime) &
-			    !DateTimeOffset.TryParse(endDateTimeString, null, System.Globalization.DateTimeStyles.RoundtripKind,
-				    out endDateTime))
+					out startDateTime) &
+				!DateTimeOffset.TryParse(endDateTimeString, null, System.Globalization.DateTimeStyles.RoundtripKind,
+					out endDateTime))
 			{
 				Debugger.Log(0, string.Empty, "DateTime parse error");
 				Assert.Fail();

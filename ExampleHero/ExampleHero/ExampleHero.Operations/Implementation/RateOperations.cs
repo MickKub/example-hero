@@ -1,9 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
-using ExampleHero.Common.Exceptions;
+﻿using ExampleHero.Common.Exceptions;
 using ExampleHero.DataAccess.Abstraction;
 using ExampleHero.DataAccess.Entities;
 using ExampleHero.DataModel;
 using ExampleHero.Operations.Abstraction;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
@@ -26,14 +26,15 @@ namespace ExampleHero.Operations.Implementation
 				throw new CustomBaseException("INCORRECT_DATE_OR_TIME_SPAN_RANGES");
 			}
 
-			var rate = await _rateRepository.GetAsNoTracking(x => x.DayOfWeek == startDateTime.DayOfWeek
-			            && x.StartTime <= startDateTime.TimeOfDay
-			            && endDateTime.TimeOfDay <= x.EndTime).Select(x =>
-				           new RateModel
-				           {
-					           Price = x.Price
-				           }).FirstOrDefaultAsync() ??
-			           throw new CustomBaseException("UNAVAILABLE_RATES_FOR_CURRENTS_TIME_SPANS");
+			var rate = await _rateRepository.GetAsNoTracking(x => 
+								x.DayOfWeek == startDateTime.DayOfWeek && x.StartTime <= startDateTime.TimeOfDay
+												&& endDateTime.TimeOfDay <= x.EndTime)
+								.Select(x =>
+								new RateModel
+								{
+									Price = x.Price
+								}).FirstOrDefaultAsync() ??
+							throw new CustomBaseException("UNAVAILABLE_RATES_FOR_CURRENTS_TIME_SPANS");
 			;
 
 			return new RateModel

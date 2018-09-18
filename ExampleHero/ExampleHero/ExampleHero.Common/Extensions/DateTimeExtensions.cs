@@ -6,7 +6,7 @@ namespace ExampleHero.Common.Extensions
 	{
 		public static DateTimeOffset GetNextWeekday(this DateTimeOffset start, DayOfWeek day)
 		{
-			var daysToAdd = ((int)day - (int)start.DayOfWeek + 7) % 7;
+			var daysToAdd = ((int) day - (int )start.DayOfWeek + 7) % 7;
 			return start.AddDays(daysToAdd);
 		}
 	}

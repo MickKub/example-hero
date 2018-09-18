@@ -1,10 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore.Internal;
-using ExampleHero.Common;
+﻿using ExampleHero.Common;
+using ExampleHero.DataAccess.Abstraction;
 using ExampleHero.DataAccess.Entities;
+using Microsoft.EntityFrameworkCore.Internal;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using ExampleHero.DataAccess.Abstraction;
 
 namespace ExampleHero.DataAccess
 {

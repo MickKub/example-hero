@@ -16,3 +16,12 @@ C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\Exampl
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\obj\Debug\netcoreapp2.1\ExampleHero.Common.AssemblyInfo.cs
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\obj\Debug\netcoreapp2.1\ExampleHero.Common.dll
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\obj\Debug\netcoreapp2.1\ExampleHero.Common.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\bin\Debug\netcoreapp2.1\ExampleHero.Common.deps.json
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\bin\Debug\netcoreapp2.1\ExampleHero.Common.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\bin\Debug\netcoreapp2.1\ExampleHero.Common.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\obj\Debug\netcoreapp2.1\ExampleHero.Common.csprojAssemblyReference.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\obj\Debug\netcoreapp2.1\ExampleHero.Common.csproj.CoreCompileInputs.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\obj\Debug\netcoreapp2.1\ExampleHero.Common.AssemblyInfoInputs.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\obj\Debug\netcoreapp2.1\ExampleHero.Common.AssemblyInfo.cs
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\obj\Debug\netcoreapp2.1\ExampleHero.Common.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Common\obj\Debug\netcoreapp2.1\ExampleHero.Common.pdb

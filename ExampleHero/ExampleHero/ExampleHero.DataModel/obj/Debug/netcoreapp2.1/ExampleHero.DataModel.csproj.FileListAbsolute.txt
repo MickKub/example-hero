@@ -16,3 +16,12 @@ C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\Exampl
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\obj\Debug\netcoreapp2.1\ExampleHero.DataModel.AssemblyInfo.cs
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\obj\Debug\netcoreapp2.1\ExampleHero.DataModel.dll
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\obj\Debug\netcoreapp2.1\ExampleHero.DataModel.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\bin\Debug\netcoreapp2.1\ExampleHero.DataModel.deps.json
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\bin\Debug\netcoreapp2.1\ExampleHero.DataModel.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\bin\Debug\netcoreapp2.1\ExampleHero.DataModel.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\obj\Debug\netcoreapp2.1\ExampleHero.DataModel.csprojAssemblyReference.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\obj\Debug\netcoreapp2.1\ExampleHero.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\obj\Debug\netcoreapp2.1\ExampleHero.DataModel.AssemblyInfoInputs.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\obj\Debug\netcoreapp2.1\ExampleHero.DataModel.AssemblyInfo.cs
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\obj\Debug\netcoreapp2.1\ExampleHero.DataModel.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.DataModel\obj\Debug\netcoreapp2.1\ExampleHero.DataModel.pdb

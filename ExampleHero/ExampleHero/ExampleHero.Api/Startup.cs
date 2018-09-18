@@ -49,53 +49,47 @@ namespace ExampleHero.Api
 				.AddXmlDataContractSerializerFormatters()
 				.SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            services.Configure<RouteOptions>(routeOptions =>
-            {         
-                routeOptions.ConstraintMap.Add("iso8601date", typeof(Iso8601DateTimeOffsetConstraint));
-            });
+			services.Configure<RouteOptions>(routeOptions =>
+			{
+				routeOptions.ConstraintMap.Add("iso8601date", typeof(Iso8601DateTimeOffsetConstraint));
+			});
 
-            services.AddSwaggerGen(c =>
-		    {
-		        c.SwaggerDoc("v1", new Info
-		        {
-		            Version = "v1",
-		            Title = "SpotHero API",
-		            Description = "A simple example ASP.NET Core Web API for Jonah Ellman",
-		            TermsOfService = "None",
-		            Contact = new Contact
-		            {
-		                Name = "Mykhailo Kubarych",
-		                Email = "mishanyakub21@gmail.com"
-		            },
-		            License = new License
-		            {
-		                Name = "Use under LICX",
-		                Url = "https://example.com/license"
-		            },                  
-		        });
-		        // Set the comments path for the Swagger JSON and UI.
-		        var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
-		        var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
-		        c.IncludeXmlComments(xmlPath);
-            });
-        }
+			services.AddSwaggerGen(c =>
+			{
+				c.SwaggerDoc("v1", new Info
+				{
+					Version = "v1",
+					Title = "ExapmleHero API",
+					Description = "A simple example ASP.NET Core Web API",
+					TermsOfService = "None",
+					Contact = new Contact
+					{
+						Name = "Mykhailo Kubarych",
+						Email = "mishanyakub21@gmail.com"
+					}
+				});
+				var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+				var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+				c.IncludeXmlComments(xmlPath);
+			});
+		}
 
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
+		public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
 		{
-		    app.UseStaticFiles();
+			app.UseStaticFiles();
 
 			loggerFactory.AddConsole(Configuration.GetSection("Logging"));
 			loggerFactory.AddDebug();
 
 			app.ExceptionMiddleware();
-            app.UseMvcWithDefaultRoute();
+			app.UseMvcWithDefaultRoute();
 
-		    app.UseSwagger();
-            app.UseSwaggerUI(c =>
-		    {
-		        c.SwaggerEndpoint("/swagger/v1/swagger.json", "SpotHero API");
-		        c.RoutePrefix = "swagger";
-		    });
+			app.UseSwagger();
+			app.UseSwaggerUI(c =>
+			{
+				c.SwaggerEndpoint("/swagger/v1/swagger.json", "ExampleHero API");
+				c.RoutePrefix = "swagger";
+			});
 
 			app.DbSeed(Configuration);
 		}

@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using ExampleHero.Common.Exceptions;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Routing;
 using System;
 using System.Globalization;
-using ExampleHero.Common.Exceptions;
 
 namespace ExampleHero.Api.Middleware.RouteConstraints
 {
@@ -10,7 +10,7 @@ namespace ExampleHero.Api.Middleware.RouteConstraints
 	{
 		public bool Match(HttpContext httpContext, IRouter route, string routeKey, RouteValueDictionary values, RouteDirection routeDirection)
 		{
-			var pattern = "yyyy-MM-dd'T'HH:mm:ss.FFFK";
+			const string pattern = "yyyy-MM-dd'T'HH:mm:ss.FFFK";
 			var value = values[routeKey] as string;
 			if (!DateTimeOffset.TryParseExact(value, pattern, null, DateTimeStyles.None, out var dateTime))
 			{

@@ -25,3 +25,30 @@ C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\Exampl
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.csproj.CopyComplete
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.dll
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Tests.deps.json
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Tests.runtimeconfig.json
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Tests.runtimeconfig.dev.json
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Tests.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Tests.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Api.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Common.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.DataAccess.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.DataModel.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Operations.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Api.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Api.xml
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.DataAccess.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Common.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.DataModel.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\bin\Debug\netcoreapp2.1\ExampleHero.Operations.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.csprojAssemblyReference.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.csproj.CoreCompileInputs.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.AssemblyInfoInputs.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.AssemblyInfo.cs
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.csproj.CopyComplete
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Tests\obj\Debug\netcoreapp2.1\ExampleHero.Tests.pdb

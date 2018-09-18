@@ -1,12 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
-using ExampleHero.DataAccess.Abstraction;
+﻿using ExampleHero.DataAccess.Abstraction;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace ExampleHero.DataAccess
+namespace ExampleHero.DataAccess.Implementation
 {
 	public sealed class Repository<T> : IRepository<T>
 		where T : class
@@ -69,6 +69,7 @@ namespace ExampleHero.DataAccess
 			}
 			_entities.Add(entity);
 			await _dbContext.SaveChangesAsync();
+
 			return entity;
 		}
 

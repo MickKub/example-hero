@@ -31,7 +31,9 @@ namespace ExampleHero.DataAccess
 			var instances = Assembly.GetExecutingAssembly().GetTypes()
 				.Where(type => !string.IsNullOrEmpty(type.Namespace) &&
 								!type.IsAbstract &&
-								type.GetInterfaces().Any(x => x.GetTypeInfo().IsGenericType && x.GetGenericTypeDefinition() == typeOfEntityConfiguration)
+								type.GetInterfaces()
+									.Any(x => x.GetTypeInfo().IsGenericType 
+												&& x.GetGenericTypeDefinition() == typeOfEntityConfiguration)
 				)
 				.Select(Activator.CreateInstance).ToList();
 

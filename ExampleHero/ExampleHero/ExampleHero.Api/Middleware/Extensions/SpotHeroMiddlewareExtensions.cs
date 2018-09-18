@@ -1,12 +1,12 @@
-﻿using Microsoft.AspNetCore.Builder;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using ExampleHero.DataAccess;
+﻿using ExampleHero.DataAccess;
 using ExampleHero.DataAccess.Abstraction;
 using ExampleHero.DataAccess.Implementation;
 using ExampleHero.Operations.Abstraction;
 using ExampleHero.Operations.Implementation;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace ExampleHero.Api.Middleware.Extensions
 {

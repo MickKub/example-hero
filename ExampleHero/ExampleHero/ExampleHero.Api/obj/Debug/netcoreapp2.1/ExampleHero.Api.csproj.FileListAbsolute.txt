@@ -46,3 +46,27 @@ C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\Exampl
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.AssemblyInfo.cs
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.RazorTargetAssemblyInfo.cache
 C:\Users\Mick\Desktop\New folder (2)\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.csproj.CopyComplete
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Api.deps.json
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Api.runtimeconfig.json
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Api.runtimeconfig.dev.json
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Api.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Api.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Api.xml
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Common.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.DataAccess.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.DataModel.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Operations.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.DataAccess.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Operations.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.Common.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\bin\Debug\netcoreapp2.1\ExampleHero.DataModel.pdb
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.csprojAssemblyReference.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.csproj.CoreCompileInputs.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.RazorAssemblyInfo.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.RazorAssemblyInfo.cs
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.AssemblyInfoInputs.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.AssemblyInfo.cs
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.RazorTargetAssemblyInfo.cache
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.csproj.CopyComplete
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.dll
+C:\Users\GAU2\Desktop\New folder\example-hero\ExampleHero\ExampleHero\ExampleHero.Api\obj\Debug\netcoreapp2.1\ExampleHero.Api.pdb

@@ -4019,23 +4019,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mick\\.nuget\\packages\\": {},
+    "C:\\Users\\GAU2\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mick\\Desktop\\New folder (2)\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.Operations\\ExampleHero.Operations.csproj",
+      "projectUniqueName": "C:\\Users\\GAU2\\Desktop\\New folder\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.Operations\\ExampleHero.Operations.csproj",
       "projectName": "ExampleHero.Operations",
-      "projectPath": "C:\\Users\\Mick\\Desktop\\New folder (2)\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.Operations\\ExampleHero.Operations.csproj",
-      "packagesPath": "C:\\Users\\Mick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mick\\Desktop\\New folder (2)\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.Operations\\obj\\",
+      "projectPath": "C:\\Users\\GAU2\\Desktop\\New folder\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.Operations\\ExampleHero.Operations.csproj",
+      "packagesPath": "C:\\Users\\GAU2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GAU2\\Desktop\\New folder\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.Operations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GAU2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4048,11 +4048,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Mick\\Desktop\\New folder (2)\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.DataAccess\\ExampleHero.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Mick\\Desktop\\New folder (2)\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.DataAccess\\ExampleHero.DataAccess.csproj"
+            "C:\\Users\\GAU2\\Desktop\\New folder\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.DataAccess\\ExampleHero.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\GAU2\\Desktop\\New folder\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.DataAccess\\ExampleHero.DataAccess.csproj"
             },
-            "C:\\Users\\Mick\\Desktop\\New folder (2)\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.DataModel\\ExampleHero.DataModel.csproj": {
-              "projectPath": "C:\\Users\\Mick\\Desktop\\New folder (2)\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.DataModel\\ExampleHero.DataModel.csproj"
+            "C:\\Users\\GAU2\\Desktop\\New folder\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.DataModel\\ExampleHero.DataModel.csproj": {
+              "projectPath": "C:\\Users\\GAU2\\Desktop\\New folder\\example-hero\\ExampleHero\\ExampleHero\\ExampleHero.DataModel\\ExampleHero.DataModel.csproj"
             }
           }
         }

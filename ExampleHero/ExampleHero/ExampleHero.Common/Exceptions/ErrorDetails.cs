@@ -1,6 +1,4 @@
-﻿using Newtonsoft.Json;
-
-namespace ExampleHero.Common
+﻿namespace ExampleHero.Common.Exceptions
 {
 	public class ErrorDetails
 	{

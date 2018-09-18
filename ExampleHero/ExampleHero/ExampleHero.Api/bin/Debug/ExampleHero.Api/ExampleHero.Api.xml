@@ -18,7 +18,7 @@
             - There are not rates for current date ranges
             - Parameters are not valid date times
             - One or two parameters are missing
-            - The from parameter is greater the to
+            - The from parameter is greater than to
             - The from datetime is greater than the to datetime
             </response>
             <response code="500">
